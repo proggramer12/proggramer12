@@ -1,6 +1,6 @@
 # Hi there, I'm yassin! 
 
-![Banner Image](IMG_20260701_172644.jpg.jpeg)
+![Banner Image]()
 
 ## About Me 
 
