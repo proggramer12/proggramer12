@@ -20,7 +20,7 @@ I'm a passionate **student and hobbyist developer** with experience in **website
 ![asm](https://img.shields.io/badge/-ASM-6E4C13?style=flat-square&logo=assemblyscript&logoColor=black)
 ![c](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![py](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black)
-![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) (no body use scratch but it is fun)
 
 
 
